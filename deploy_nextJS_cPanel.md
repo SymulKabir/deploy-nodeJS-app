@@ -5,6 +5,12 @@ Below is the complete step-by-step process to deploy your Next.js app on a cPane
 
 ---
 
+> 🧾 **Tested and Verified On:**  
+> - **Node.js:** v22.16.0  
+> - **Next.js:** v15.1.6 
+
+---
+
 #### 🧩 Step 1: Create `server.js` File
 
 First, create a file named `server.js` in your project’s **root directory**.  
