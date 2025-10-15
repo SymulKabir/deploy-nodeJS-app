@@ -92,6 +92,7 @@ Click **Run NPM Install** to install all dependencies.
 After installation, click **Restart** to start your Node.js server.
 
 **✅ Result**
+
 If all steps are completed correctly, your Next.js app will go live on your cPanel server successfully.
 
 --- 
