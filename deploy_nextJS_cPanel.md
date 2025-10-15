@@ -51,17 +51,22 @@ app.prepare().then(() => {
 })
 ```
 ---
+
 #### ⚙️ Step 2: Build the Project
 Run the following command in your terminal to build the Next.js project:
+
 ```bash
 npm run build
 ```
 This command will create a `.next` folder containing all the compiled files for production.
+
 ---
 #### 🗜 Step 3: Zip the Project
 Before zipping, exclude the `node_modules` folder, as it is typically large.
 Create a ZIP file of your project without the `node_modules` directory.
+
 ---
+
 #### 📤 Step 4: Upload Files to cPanel
 
 - Log in to cPanel and open File Manager.
@@ -77,6 +82,7 @@ Create a ZIP file of your project without the `node_modules` directory.
   - **Application URL:** Your domain name
   - **Application Startup File:** server.js
 - Click Create Application to complete setup.
+
 ---
 
 #### 🧠 Step 6: Install Dependencies & Restart Server
